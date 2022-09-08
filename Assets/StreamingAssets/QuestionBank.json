@@ -1,0 +1,277 @@
+ [
+  {
+    "nombreDificultad": "Super Easy",
+    "preguntas": [
+      {
+        "enunciado": "cuanto es 2+2?",
+        "respuestas": [
+          { "texto": "4" },
+          { "texto": "0" },
+          { "texto": "1" },
+          { "texto": "3" }
+        ],
+        "respuestaCorrecta": 4
+      },
+      {
+        "enunciado": "cuanto es 6+6?",
+        "respuestas": [
+          { "texto": "6" },
+          { "texto": "4" },
+          { "texto": "12" },
+          { "texto": "5" }
+        ],
+        "respuestaCorrecta": 12
+      },
+      {
+        "enunciado": "cuanto es 3+2",
+        "respuestas": [
+          { "texto": " 22" },
+          { "texto": "5" },
+          { "texto": "8" },
+          { "texto": "3" }
+        ],
+        "respuestaCorrecta": 5
+      },
+      {
+        "enunciado": "cuanto es 1+5?",
+        "respuestas": [
+          { "texto": "3" },
+          { "texto": "9" },
+          { "texto": "6" },
+          { "texto": "4" }
+        ],
+        "respuestaCorrecta": 6
+      },
+      {
+        "enunciado": "cuanto es 5+5?",
+        "respuestas": [
+          { "texto": "8" },
+          { "texto": "9" },
+          { "texto": "1" },
+          { "texto": "10" }
+        ],
+        "respuestaCorrecta": 10
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Easy",
+    "preguntas": [
+      {
+        "enunciado": "cuanto es 4-2?",
+        "respuestas": [
+          { "texto": "6" },
+          { "texto": "8" },
+          { "texto": "2" },
+          { "texto": "1" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "cuanto es 9-7?",
+        "respuestas": [
+          { "texto": "0" },
+          { "texto": "1" },
+          { "texto": "3" },
+          { "texto": "2" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "cuanto es 5-0?",
+        "respuestas": [
+          { "texto": "5" },
+          { "texto": "0" },
+          { "texto": "10" },
+          { "texto": "6" }
+        ],
+        "respuestaCorrecta": 5
+      },
+      {
+        "enunciado": "cuanto es 1-1",
+        "respuestas": [
+          { "texto": "9" },
+          { "texto": "1" },
+          { "texto": "0" },
+          { "texto": "3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "8-4?",
+        "respuestas": [
+          { "texto": "0" },
+          { "texto": "1" },
+          { "texto": "4" },
+          { "texto": "3" }
+        ],
+        "respuestaCorrecta": 4
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Medium",
+    "preguntas": [
+      {
+        "enunciado": "cuanto es 8x4?",
+        "respuestas": [
+          { "texto": "20"},
+          { "texto": "1" },
+          { "texto": "32"},
+          { "texto": "31"}
+        ],
+        "respuestaCorrecta": 32
+      },
+      {
+        "enunciado": "cuanto es 7x9?",
+        "respuestas": [
+          { "texto": "63" },
+          { "texto": " 12"},
+          { "texto": " 2" },
+          { "texto": "12"}
+        ],
+        "respuestaCorrecta": 63
+      },
+      {
+        "enunciado": "cuanto es 6x3?",
+        "respuestas": [
+          { "texto": "0" },
+          { "texto": "18" },
+          { "texto": "12" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 18
+      },
+      {
+        "enunciado": "cuanto es 8x2?",
+        "respuestas": [
+          { "texto": "18" },
+          { "texto": "17" },
+          { "texto": "16" },
+          { "texto": "15" }
+        ],
+        "respuestaCorrecta": 16
+      },
+      {
+        "enunciado": "cuanto es 3x5?",
+        "respuestas": [
+          { "texto": "15" },
+          { "texto": "25" },
+          { "texto": "8" },
+          { "texto": "7" }
+        ],
+        "respuestaCorrecta": 15
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Hard",
+    "preguntas": [
+        {
+            "enunciado": "cuanto es 87÷3?",
+            "respuestas": [
+                { "texto": "19" },
+                { "texto": "30" },
+                { "texto": "29" },
+                { "texto": "84" }
+            ],
+            "respuestaCorrecta": 29
+        },
+        {
+            "enunciado": "cuanto es 28÷4?",
+            "respuestas": [
+                { "texto": "32" },
+                { "texto": "7" },
+                { "texto": "2" },
+                { "texto": "24" }
+            ],
+            "respuestaCorrecta": 7
+        },
+        {
+            "enunciado": "cuanto es 74÷2?",
+            "respuestas": [
+                { "texto": "37" },
+                { "texto": "76" },
+                { "texto": "72" },
+                { "texto": "0" }
+            ],
+            "respuestaCorrecta": 37
+        },
+        {
+            "enunciado": "cuanto es 26÷1?",
+            "respuestas": [
+                { "texto": "16" },
+                { "texto": "12" },
+                { "texto": "26" },
+                { "texto": "2" }
+            ],
+            "respuestaCorrecta": 26
+        },
+        {
+            "enunciado": "cuanto es 90÷3?",
+            "respuestas": [
+                { "texto": "31" },
+                { "texto": "25" },
+                { "texto": "15" },
+                { "texto": "30" }
+            ],
+            "respuestaCorrecta": 30
+        }
+    ]
+  },
+  {
+    "nombreDificultad": "Extra Hard",
+    "preguntas": [
+      {
+        "enunciado": "cuanto es 1280+1280?",
+        "respuestas": [
+          { "texto": "2559" },
+          { "texto": "1100" },
+          { "texto": "2650" },
+          { "texto": "2560" }
+        ],
+        "respuestaCorrecta": 2560
+      },
+      {
+        "enunciado": "cuanto es 1250-675?",
+        "respuestas": [
+          { "texto": "675" },
+          { "texto": "757" },
+          { "texto": "475" },
+          { "texto": "575" }
+        ],
+        "respuestaCorrecta": 575
+      },
+      {
+        "enunciado": "cuanto es 50x50?",
+        "respuestas": [
+          { "texto": "100" },
+          { "texto": "3400" },
+          { "texto": "5200" },
+          { "texto": "2500" }
+        ],
+        "respuestaCorrecta": 2500
+      },
+        {
+            "enunciado": "cuanto es 3569÷20?",
+            "respuestas": [
+                { "texto": "0" },
+                { "texto": "100" },
+                { "texto": "150" },
+                { "texto": "178" }
+            ],
+            "respuestaCorrecta": 178
+        },
+        {
+            "enunciado": "cuanto es 4560÷20?",
+            "respuestas": [
+                { "texto": "218" },
+                { "texto": "118" },
+                { "texto": "128" },
+                { "texto": "228" }
+            ],
+            "respuestaCorrecta": 228
+        }
+    ]
+  }
+]
